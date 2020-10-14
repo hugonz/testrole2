@@ -1,2 +1,4 @@
 ---
 # tasks file for newrole
+ - debug:
+     msg: "Este es otro role, pero necesito decir más cosas"
